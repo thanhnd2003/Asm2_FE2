@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "name": "sdadasd update",
+      "price": "00000000",
+      "id": 3,
+      "img": "https://picsum.photos/200/300"
+    },
+    {
+      "name": "sẳn phaarm D",
+      "price": "11123",
+      "id": 4,
+      "img": "https://picsum.photos/200/300"
+    },
+    {
+      "name": "hhhh",
+      "price": "3421321",
+      "id": 5,
+      "img": "https://picsum.photos/200/300"
+    }
+  ],
+  "users": [
+    {
+      "email": "thanhdcnb6@gmail.com",
+      "password": "111111",
+      "id": 1
+    },
+    {
+      "username": "ccc",
+      "password": "1232131",
+      "email": "thanh@gmail.com",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "params": {
+        "username": "dsadsadsa",
+        "password": "352423423"
+      },
+      "id": 3
+    }
+  ]
+}
